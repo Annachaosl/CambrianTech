@@ -321,8 +321,8 @@ CambrianTech 为以下研究领域提供平台：
 
 ### 交流渠道
 - **Discord**: [加入讨论](https://discord.gg/cambriantech)
-- **论坛**: [技术问答](https://forum.cambriantech.org)
-- **邮件列表**: [公告订阅](mailto:announce@cambriantech.org)
+- **论坛**: [技术问答](https://forum.vrmlstudi.com)
+- **邮件列表**: [公告订阅](mailto:announce@vrmlstudi.com)
 - **Twitter**: [@CambrianTech](https://twitter.com/CambrianTech)
 
 ### 活动与会议
@@ -344,10 +344,11 @@ CambrianTech 项目受到以下启发：
 
 ## 📞 联系我们
 
-- **项目负责人**: Dr. Tech Evolution - tech.evolution@cambriantech.org
+- **项目负责人**: Dr. Tech Evolution - tech.evolution@vrmlstudi.com
 - **技术问题**: GitHub Issues
-- **合作咨询**: partnership@cambriantech.org
-- **学术合作**: research@cambriantech.org
+- **合作咨询**: partnership@vrmlstudi.com
+- **学术合作**: research@vrmlstudi.com
+- **官方网站**: http://www.vrmlstudi.com/
 
 ---
 
